@@ -3,9 +3,6 @@
         <title>
 
         </title>
-        <text>bee</text>
-        ff
-        ffd
-        df
+        <text>second new</text>
                     </head>
 </html>                
