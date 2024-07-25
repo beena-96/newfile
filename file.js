@@ -4,6 +4,5 @@
 
         </title>
         <text>beena</text>
-        <tect>bee</tect>
     </head>
 </html>
